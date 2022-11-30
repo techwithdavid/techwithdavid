@@ -2,7 +2,12 @@
 - 👀 I’m interested in building websites 
 - 🌱 I’m currently learning to write good codes
 - 💞️ I’m looking to collaborate on Backend projects
-- 📫 How to reach me ...
+
+<br>
+
+<p align="center">
+<a href="https://twitter.com/techguy_daveed/" alt="twitter"><img src="https://img.shields.io/twitter/follow/techguy_daveed?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
+</p>
 
 <br>
 
