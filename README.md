@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @techwithdavid
 - 👀 I’m interested in building websites 
 - 🌱 I’m currently learning to write good codes
-- 💞️ I’m looking to collaborate on Backend projects
+- 💞️ I’m looking to collaborate on various kinds of projects
 
 <br>
 
