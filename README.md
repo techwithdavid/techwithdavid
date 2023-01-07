@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techwithdavid
-- 👀 I’m interested in building websites 
-- 🌱 I’m currently learning to write good codes
+- 👀 I’m interested in web2, web3, AI, ML, Automations, Technical writing, and more (loading)
+- 🌱 I’m currently learning the C Language 
 - 💞️ I’m looking to collaborate on various kinds of projects
 
 <br>
