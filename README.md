@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techwithdavid
 - 👀 I’m interested in programming, web2, web3, AI, ML, Automations, Technical writing, and more (loading)
-- 🌱 I’m currently learning the C Language 
+- 🌱 I’m currently learning the C & Python Language 
 - 💞️ I’m looking to collaborate on various kinds of projects
 
 <br>
